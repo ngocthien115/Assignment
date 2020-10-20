@@ -1,0 +1,13 @@
+C:\Users\nthie\source\repos\Assignment\frmMain\bin\Debug\frmMain.exe.config
+C:\Users\nthie\source\repos\Assignment\frmMain\bin\Debug\frmMain.exe
+C:\Users\nthie\source\repos\Assignment\frmMain\bin\Debug\frmMain.pdb
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.csprojAssemblyReference.cache
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.Properties.Resources.resources
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.csproj.GenerateResource.cache
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.csproj.CoreCompileInputs.cache
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.exe
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.pdb
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.formLogin.resources
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.formMain.resources
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.formNhanVien.resources
+C:\Users\nthie\source\repos\Assignment\frmMain\obj\Debug\frmMain.frmThongTinNV.resources

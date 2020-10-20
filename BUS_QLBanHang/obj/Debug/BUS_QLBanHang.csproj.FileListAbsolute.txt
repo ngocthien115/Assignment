@@ -1,0 +1,11 @@
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.dll
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\bin\Debug\BUS_QLBanHang.pdb
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csprojAssemblyReference.cache
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.csproj.CopyComplete
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.dll
+C:\Users\nthie\source\repos\Assignment\BUS_QLBanHang\obj\Debug\BUS_QLBanHang.pdb
